@@ -1,0 +1,25 @@
+{
+  "name": "hadabo",
+  "version": "1.0.0",
+  "description": "hadabo.com website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadabo/hadabo.git"
+  },
+  "keywords": [
+    "hadabo",
+    "website",
+    "personal",
+    "front-end"
+  ],
+  "author": "Abdul-hadi Hawari <hadabo@gmail.com> (http://hadabo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadabo/hadabo/issues"
+  },
+  "homepage": "https://github.com/hadabo/hadabo#readme"
+}
